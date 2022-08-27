@@ -193,7 +193,8 @@ Below is an illustration of Synthesis.
 
 Invoking Yosys:
 
-![invoking yosys](https://user-images.githubusercontent.com/104454253/166099491-8ee3ad06-1b1e-4483-9451-2372f08aab9b.JPG)
+![invokingyosys](https://user-images.githubusercontent.com/72696170/187025514-c305c982-4bd4-4dad-a65f-73b3cd9fe586.png)
+
 
 Snippet below illustrates reading .lib, design and choosing the module to synthesize:
 
